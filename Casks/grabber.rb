@@ -1,6 +1,6 @@
 cask "grabber" do
-  version "1.0.4"
-  sha256 "7193990a2b31d3c0addaaa6624dd7bfed9f108bb6a9f77c835c32deb15006c45"
+  version "1.0.13"
+  sha256 "5a4603a0fa14683c5f015dfcdaa024b58e97825d84813514bac8bf06382e10f8"
 
   url "https://github.com/ihsur7/grabber/releases/download/v#{version}/grabber-#{version}.zip"
   name "Grabber"
